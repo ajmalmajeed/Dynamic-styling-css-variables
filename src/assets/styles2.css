@@ -1,0 +1,7 @@
+:root {
+  --headingColor: blue;
+}
+
+h1 {
+  color: var(--headingColor);
+}
